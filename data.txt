@@ -1,0 +1,8 @@
+JPNN10 - po 10:00-11:45 Novak 1, ut 10:00-12:00 Svoboda 0.8, po 10:00-11:45 Straka 0
+JPNN11 - ut 10:00-11:50 Jahoda 1, ut 10:00-11:50 Malina 0.5,
+Bi0002 - st 10:00-12:30 Potocny 1, ct 10:00-12:00 Polak 1, po 10:00-11:45 Merkelova 1, po 10:00-11:45 Rybnickova 1
+JA001 - pa 10:00-12:00 Lesak 0.3, po 8:00-9:00 Porizek 0.5, pa 10:00-11:45 Drn 0.9, po 10:00-11:45 Koblizkova 1
+M5751 - po 10:00-12:00 Studnicka 1, ut 8:00-9:00 Zalomil 0, po 10:00-11:45 Kovar 1, po 10:00-11:45 Pekarova 0.7
+VB003 - po 10:00-12:00 Smetana 0.5, ut 14:00-15:00 Fousek 0.5, po 10:00-11:45 Packa 1, po 10:00-11:45 Kopac 1
+VB005 - po 10:00-12:00 Dyk 0.1, ut 16:00-17:00 Zednar 1, po 10:00-11:45 Zahradnikova 1
+BPE_Z - po 10:00-12:00 Stary 1, ut 18:00-19:00 Svoboda 1, po 10:00-11:45 Chloupek 0.4
